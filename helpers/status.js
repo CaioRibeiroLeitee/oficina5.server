@@ -1,0 +1,9 @@
+module.exports = {
+  PEDIDO_RUIM:400,
+  ERRO_INTERNO:500,
+  OK:200,
+  CRIADO:201,
+  NÃO_MODIFICADO:304,
+  NÃO_AUTORIZADO:401
+}
+  
